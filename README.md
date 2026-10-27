@@ -1,8 +1,8 @@
-# Mayank Goyal Portfolio
+# Anurag Bajaj Portfolio
 
 A modern personal portfolio website showcasing my skills, education, projects, and AI-focused work as an AI-ML engineer.
 
-Live demo: https://portfoliofinalassesment.vercel.app/
+Live demo: https://portfolio-three-plum-58.vercel.app/
 
 ## About
 This portfolio was built to present my profile, technical capabilities, and selected projects in a clean and engaging format. It includes sections for:
